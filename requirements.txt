@@ -1,0 +1,28 @@
+# --- Core dependencies ---
+numpy
+opencv-python
+matplotlib
+tqdm
+Pillow
+scikit-learn
+faiss-cpu
+onnxruntime
+
+# --- Face recognition models ---
+insightface
+torch
+torchvision
+torchaudio
+
+# --- Face restoration / enhancement ---
+gfpgan
+
+# --- Utility + system ---
+requests
+json5
+pathlib
+argparse
+
+# --- (Optional but useful) ---
+prettytable
+pandas
