@@ -1,0 +1,5 @@
+{
+    "name": "Recognized Student",
+    "confidence": 0.95,
+    "method": "ArcFace"
+}

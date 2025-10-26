@@ -1,0 +1,146 @@
+{
+    "aligned_1.jpg": {
+        "score": 0.7823018269807923,
+        "flags": {
+            "blurred": false,
+            "small": false,
+            "underexposed": false,
+            "overexposed": false
+        }
+    },
+    "aligned_img_01.jpg": {
+        "score": 0.7823018269807923,
+        "flags": {
+            "blurred": false,
+            "small": false,
+            "underexposed": false,
+            "overexposed": false
+        }
+    },
+    "aligned_img_02.jpg": {
+        "score": 0.7199204681872748,
+        "flags": {
+            "blurred": false,
+            "small": false,
+            "underexposed": false,
+            "overexposed": false
+        }
+    },
+    "aligned_img_03.jpg": {
+        "score": 0.7509357649309724,
+        "flags": {
+            "blurred": false,
+            "small": false,
+            "underexposed": false,
+            "overexposed": false
+        }
+    },
+    "aligned_img_04.jpg": {
+        "score": 0.7522764574579832,
+        "flags": {
+            "blurred": false,
+            "small": false,
+            "underexposed": false,
+            "overexposed": false
+        }
+    },
+    "aligned_img_05.jpg": {
+        "score": 0.754595588235294,
+        "flags": {
+            "blurred": false,
+            "small": false,
+            "underexposed": false,
+            "overexposed": false
+        }
+    },
+    "aligned_img_06.jpg": {
+        "score": 0.754595588235294,
+        "flags": {
+            "blurred": false,
+            "small": false,
+            "underexposed": false,
+            "overexposed": false
+        }
+    },
+    "aligned_img_07.jpg": {
+        "score": 0.7620284832683073,
+        "flags": {
+            "blurred": false,
+            "small": false,
+            "underexposed": false,
+            "overexposed": false
+        }
+    },
+    "aligned_img_08.jpg": {
+        "score": 0.7653398859543817,
+        "flags": {
+            "blurred": false,
+            "small": false,
+            "underexposed": false,
+            "overexposed": false
+        }
+    },
+    "aligned_img_09.jpg": {
+        "score": 0.7702294980492197,
+        "flags": {
+            "blurred": false,
+            "small": false,
+            "underexposed": false,
+            "overexposed": false
+        }
+    },
+    "aligned_img_10.jpg": {
+        "score": 0.7726714904711884,
+        "flags": {
+            "blurred": false,
+            "small": false,
+            "underexposed": false,
+            "overexposed": false
+        }
+    },
+    "aligned_img_11.jpg": {
+        "score": 0.7718567114345738,
+        "flags": {
+            "blurred": false,
+            "small": false,
+            "underexposed": false,
+            "overexposed": false
+        }
+    },
+    "aligned_img_12.jpg": {
+        "score": 0.7849332701830731,
+        "flags": {
+            "blurred": false,
+            "small": false,
+            "underexposed": false,
+            "overexposed": false
+        }
+    },
+    "aligned_img_13.jpg": {
+        "score": 0.7909968674969987,
+        "flags": {
+            "blurred": false,
+            "small": false,
+            "underexposed": false,
+            "overexposed": false
+        }
+    },
+    "aligned_img_14.jpg": {
+        "score": 0.7944245667016807,
+        "flags": {
+            "blurred": false,
+            "small": false,
+            "underexposed": false,
+            "overexposed": false
+        }
+    },
+    "aligned_img_15.jpg": {
+        "score": 0.7912990977641056,
+        "flags": {
+            "blurred": false,
+            "small": false,
+            "underexposed": false,
+            "overexposed": false
+        }
+    }
+}

@@ -1,0 +1,286 @@
+{
+    "23CS001": {
+        "aligned_img_01.jpg": {
+            "score": 0.7835785095288115,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_02.jpg": {
+            "score": 0.7040534963985594,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_03.jpg": {
+            "score": 0.7205732292917166,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_04.jpg": {
+            "score": 0.7245437237394958,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_05.jpg": {
+            "score": 0.7253317733343337,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_06.jpg": {
+            "score": 0.7244119522809124,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_07.jpg": {
+            "score": 0.728899450405162,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_08.jpg": {
+            "score": 0.7335367740846338,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_09.jpg": {
+            "score": 0.7340640943877551,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_10.jpg": {
+            "score": 0.742634163040216,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_11.jpg": {
+            "score": 0.7443478954081633,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_12.jpg": {
+            "score": 0.7502096150960383,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_13.jpg": {
+            "score": 0.7578804959483794,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_14.jpg": {
+            "score": 0.7609171012154862,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_15.jpg": {
+            "score": 0.7733927164615846,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        }
+    },
+    "23CS002": {
+        "aligned_1.jpg": {
+            "score": 0.7823018269807923,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_01.jpg": {
+            "score": 0.7823018269807923,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_02.jpg": {
+            "score": 0.7199204681872748,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_03.jpg": {
+            "score": 0.7509357649309724,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_04.jpg": {
+            "score": 0.7522764574579832,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_05.jpg": {
+            "score": 0.754595588235294,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_06.jpg": {
+            "score": 0.754595588235294,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_07.jpg": {
+            "score": 0.7620284832683073,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_08.jpg": {
+            "score": 0.7653398859543817,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_09.jpg": {
+            "score": 0.7702294980492197,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_10.jpg": {
+            "score": 0.7726714904711884,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_11.jpg": {
+            "score": 0.7718567114345738,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_12.jpg": {
+            "score": 0.7849332701830731,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_13.jpg": {
+            "score": 0.7909968674969987,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_14.jpg": {
+            "score": 0.7944245667016807,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        },
+        "aligned_img_15.jpg": {
+            "score": 0.7912990977641056,
+            "flags": {
+                "blurred": false,
+                "small": false,
+                "underexposed": false,
+                "overexposed": false
+            }
+        }
+    },
+    "23CS004_John_Doe": {}
+}
